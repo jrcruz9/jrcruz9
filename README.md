@@ -13,18 +13,14 @@ Mais do que mostrar o que desenvolvi, quero mostrar **como penso**, **planejo**,
 
 
 ## 📫 Contato
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
-
+<div>
+<a href="mailto:joaocruzprof@outlook.com"><img src="https://i.ibb.co/TxpQc6m7/email-badge-gradient-cutout.png" alt="email" width="102" height="30" /></a>
+<a href=""><img src="https://i.ibb.co/XZcFwmLf/site-pessoal-bagde.png" alt="site-pessoal-bagde" width="102" height="30" /></a>
+<a href="https://www.instagram.com/joao.cruz9/"><img src="https://i.ibb.co/p7cTBSf/instagram-badge.png" alt="instagram-badge" width="102" height="27" /></a>
+<a href="https://www.linkedin.com/in/prof-joaocruz"><img src="https://i.ibb.co/5Xf111k7/linkedin-badge.png" alt="linkedin-badge"  width="102" height="27" /></a>
+</div>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à tecnologia, educação ou gestão de projetos. Estou ansioso para ouvir de você! 😊 <br><br>
-
-
 
 
 
